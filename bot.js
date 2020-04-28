@@ -97,7 +97,7 @@ client.on('message', message => {
 
     } else if (command.includes('esci il cazzo?')) {
 
-      message.channel.send('8===========>');
+      message.channel.send('solo se esci il tuo prima...');
 
     } else if (command.includes('dio')) {
 
